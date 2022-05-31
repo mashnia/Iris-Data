@@ -2,4 +2,6 @@
 
 Iris dataset examples working with basic visualization, K-nearest neighbors, and logistic regression
 
-Zip folder contains Python text files.
+IrisDataComplete zip folder contains Python text files.
+
+IrisDataNB zip folder contains Jupyter Notebook version of project.
